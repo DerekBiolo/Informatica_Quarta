@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj": {}
+    "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\Informatica_Quarta\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj": {
+    "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\Informatica_Quarta\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj",
+        "projectUniqueName": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\Informatica_Quarta\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj",
         "projectName": "LinkedCoda",
-        "projectPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj",
+        "projectPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\Informatica_Quarta\\CodaLinked\\LinkedCoda\\LinkedCoda.csproj",
         "packagesPath": "C:\\Users\\biolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CodaLinked\\LinkedCoda\\obj\\",
+        "outputPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\Informatica_Quarta\\CodaLinked\\LinkedCoda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

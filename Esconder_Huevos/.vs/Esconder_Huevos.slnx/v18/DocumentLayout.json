@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\esconder_huevos\\esconder_huevos\\anselmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|solutionrelative:esconder_huevos\\anselmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\esconder_huevos\\esconder_huevos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|solutionrelative:esconder_huevos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\esconder_huevos\\esconder_huevos\\huevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|solutionrelative:esconder_huevos\\huevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\esconder_huevos\\esconder_huevos\\bugsbunny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F6ABDF-2CF7-2FC3-E157-F4628761340B}|Esconder_Huevos\\Esconder_Huevos.csproj|solutionrelative:esconder_huevos\\bugsbunny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\Program.cs",
+              "RelativeDocumentMoniker": "Esconder_Huevos\\Program.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\Program.cs",
+              "RelativeToolTip": "Esconder_Huevos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:12:26.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Huevo.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\Huevo.cs",
+              "RelativeDocumentMoniker": "Esconder_Huevos\\Huevo.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\Huevo.cs",
+              "RelativeToolTip": "Esconder_Huevos\\Huevo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:14:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BugsBunny.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\BugsBunny.cs",
+              "RelativeDocumentMoniker": "Esconder_Huevos\\BugsBunny.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\BugsBunny.cs",
+              "RelativeToolTip": "Esconder_Huevos\\BugsBunny.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:26:21.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anselmo.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\Anselmo.cs",
+              "RelativeDocumentMoniker": "Esconder_Huevos\\Anselmo.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Esconder_Huevos\\Esconder_Huevos\\Anselmo.cs",
+              "RelativeToolTip": "Esconder_Huevos\\Anselmo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:50:07.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LinkedCoda")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Esconder_Huevos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f68d7a772e96ca0d20dce9d79bff2606d6554b")]
-[assembly: System.Reflection.AssemblyProductAttribute("LinkedCoda")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LinkedCoda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+389b2bd8f7f1786e02ae681b7e841b6543f53687")]
+[assembly: System.Reflection.AssemblyProductAttribute("Esconder_Huevos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Esconder_Huevos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
