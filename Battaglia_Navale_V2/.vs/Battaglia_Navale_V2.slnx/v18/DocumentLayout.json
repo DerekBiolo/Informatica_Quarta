@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\battaglia_navale_v2\\battaglia_navale_v2\\flobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\flobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\battaglia_navale_v2\\battaglia_navale_v2\\flobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\flobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\battaglia_navale_v2\\battaglia_navale_v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\tabella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\tabella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\battaglia_navale_v2\\anave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BE5539-714C-423B-8935-CBCA771FB118}|Battaglia_Navale_V2\\Battaglia_Navale_V2.csproj|solutionrelative:battaglia_navale_v2\\anave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Form1.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Form1.cs*",
+              "RelativeToolTip": "Battaglia_Navale_V2\\Form1.cs*",
+              "ViewState": "AgIAALoAAAAAAAAAAAAowM4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:05:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FLobby.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\FLobby.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\FLobby.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\FLobby.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\FLobby.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:45:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FLobby.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\FLobby.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\FLobby.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\FLobby.cs [Progettazione]",
+              "RelativeToolTip": "Battaglia_Navale_V2\\FLobby.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:43:02.393Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\GameManager.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\GameManager.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\GameManager.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\GameManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:06:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Form1.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Form1.cs [Progettazione]*",
+              "RelativeToolTip": "Battaglia_Navale_V2\\Form1.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:15:20.468Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\SoundManager.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\SoundManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:00:41.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Player.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\Player.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Player.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:30:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cella.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Cella.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\Cella.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Cella.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\Cella.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:35:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tabella.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Tabella.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\Tabella.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\Tabella.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\Tabella.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:48:09.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ANave.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\ANave.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_V2\\ANave.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_V2\\Battaglia_Navale_V2\\ANave.cs",
+              "RelativeToolTip": "Battaglia_Navale_V2\\ANave.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:35:23.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

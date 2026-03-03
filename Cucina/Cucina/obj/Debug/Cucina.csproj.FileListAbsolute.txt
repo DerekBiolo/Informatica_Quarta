@@ -1,0 +1,10 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\bin\Debug\Cucina.exe.config
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\bin\Debug\Cucina.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\bin\Debug\Cucina.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.csproj.AssemblyReference.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.Properties.Resources.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.csproj.GenerateResource.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Cucina\Cucina\obj\Debug\Cucina.Form1.resources

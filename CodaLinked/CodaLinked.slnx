@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CodaLinked/CodaLinked.csproj" />
+  <Project Path="LinkedCoda/LinkedCoda.csproj" />
+</Solution>

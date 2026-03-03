@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\battaglia_navale_eventi\\battaglia_navale_eventi\\positioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\positioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\pvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\pvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\positioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\positioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\pvai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\pvai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\pvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\pvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\tabella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\tabella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\pvai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\pvai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\battaglia_navale_eventi\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD26701-8126-46C4-AB33-6182CBDF05FD}|Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi.csproj|solutionrelative:battaglia_navale_eventi\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Positioning.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Positioning.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Positioning.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Positioning.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Positioning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:29:09.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Form1.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:17:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvP.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvP.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\PvP.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvP.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\PvP.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAASwGIBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:45:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Form1.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Form1.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:25:08.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\SoundManager.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\SoundManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:02:11.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Positioning.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Positioning.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Positioning.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Positioning.cs [Progettazione]",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Positioning.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:27:08.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PvAI.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvAI.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\PvAI.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvAI.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\PvAI.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAiwKkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:24:25.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Nave.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Nave.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Nave.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Nave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:38:08.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cella.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Cella.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Cella.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Cella.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Cella.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:48:08.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PvP.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvP.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\PvP.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvP.cs [Progettazione]",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\PvP.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:44:31.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tabella.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Tabella.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Tabella.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Tabella.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Tabella.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:53:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Form1.Designer.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Form1.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAnwFYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:23:44.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PvAI.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvAI.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\PvAI.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\PvAI.cs [Progettazione]",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\PvAI.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:24:21.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Player.cs",
+              "RelativeDocumentMoniker": "Battaglia_Navale_Eventi\\Player.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Battaglia_Navale_Eventi\\Battaglia_Navale_Eventi\\Player.cs",
+              "RelativeToolTip": "Battaglia_Navale_Eventi\\Player.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:15:55.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

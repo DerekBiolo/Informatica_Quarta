@@ -1,0 +1,11 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.csproj.AssemblyReference.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.Form1.resources
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.Properties.Resources.resources
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.csproj.GenerateResource.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\bin\Debug\FileMultimedialiForm.exe.config
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\bin\Debug\FileMultimedialiForm.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\bin\Debug\FileMultimedialiForm.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimedialiForm\FileMultimedialiForm\obj\Debug\FileMultimedialiForm.exe.config

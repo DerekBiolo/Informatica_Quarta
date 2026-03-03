@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\cturnodigioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\cturnodigioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\cmago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\cmago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\cguerriero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\cguerriero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|c:\\users\\biolo\\desktop\\4bii\\informatica\\giococarteguerra\\giococarteguerra\\carciere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C8555-B3E7-4E96-8ED5-79FF976D64D2}|GiocoCarteGuerra\\GiocoCarteGuerra.csproj|solutionrelative:giococarteguerra\\carciere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\Form1.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\Form1.cs",
+              "RelativeToolTip": "GiocoCarteGuerra\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:00:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CTurnoDiGioco.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CTurnoDiGioco.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\CTurnoDiGioco.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CTurnoDiGioco.cs",
+              "RelativeToolTip": "GiocoCarteGuerra\\CTurnoDiGioco.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:50:56.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMago.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CMago.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\CMago.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CMago.cs",
+              "RelativeToolTip": "GiocoCarteGuerra\\CMago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:48:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CGuerriero.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CGuerriero.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\CGuerriero.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CGuerriero.cs",
+              "RelativeToolTip": "GiocoCarteGuerra\\CGuerriero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:47:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPersonaggio.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CPersonaggio.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\CPersonaggio.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CPersonaggio.cs",
+              "RelativeToolTip": "GiocoCarteGuerra\\CPersonaggio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:42:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\Form1.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "GiocoCarteGuerra\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:40:03.452Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CArciere.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CArciere.cs",
+              "RelativeDocumentMoniker": "GiocoCarteGuerra\\CArciere.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\4BII\\informatica\\GiocoCarteGuerra\\GiocoCarteGuerra\\CArciere.cs",
+              "RelativeToolTip": "GiocoCarteGuerra\\CArciere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:49:38.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

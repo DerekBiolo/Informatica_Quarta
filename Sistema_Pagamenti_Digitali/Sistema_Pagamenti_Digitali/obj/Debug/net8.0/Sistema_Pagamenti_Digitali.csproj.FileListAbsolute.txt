@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\bin\Debug\net8.0\Sistema_Pagamenti_Digitali.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\bin\Debug\net8.0\Sistema_Pagamenti_Digitali.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\bin\Debug\net8.0\Sistema_Pagamenti_Digitali.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\bin\Debug\net8.0\Sistema_Pagamenti_Digitali.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\bin\Debug\net8.0\Sistema_Pagamenti_Digitali.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\refint\Sistema_Pagamenti_Digitali.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\Sistema_Pagamenti_Digitali.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Sistema_Pagamenti_Digitali\Sistema_Pagamenti_Digitali\obj\Debug\net8.0\ref\Sistema_Pagamenti_Digitali.dll

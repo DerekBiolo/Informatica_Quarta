@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\bin\Debug\net8.0\Elenco_Persone_BD.exe
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\bin\Debug\net8.0\Elenco_Persone_BD.deps.json
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\bin\Debug\net8.0\Elenco_Persone_BD.runtimeconfig.json
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\bin\Debug\net8.0\Elenco_Persone_BD.dll
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\bin\Debug\net8.0\Elenco_Persone_BD.pdb
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.AssemblyInfo.cs
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.dll
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\refint\Elenco_Persone_BD.dll
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.pdb
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\Elenco_Persone_BD.genruntimeconfig.cache
+C:\Users\biolo\Desktop\4BII\informatica\Elenco_Persone_BD\Elenco_Persone_BD\obj\Debug\net8.0\ref\Elenco_Persone_BD.dll

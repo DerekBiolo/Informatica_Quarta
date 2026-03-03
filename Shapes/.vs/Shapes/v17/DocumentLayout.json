@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\cdrawablerectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\cdrawablerectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\cdrawablecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\cdrawablecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\crectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\crectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\ccircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\ccircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\shapes\\shapes\\ashape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCA1C1-A1C9-4B89-A2DE-97FB948E0B9A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\ashape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDrawableRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CDrawableRectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\CDrawableRectangle.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CDrawableRectangle.cs",
+              "RelativeToolTip": "Shapes\\CDrawableRectangle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:11:10.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CDrawableCircle.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CDrawableCircle.cs",
+              "RelativeDocumentMoniker": "Shapes\\CDrawableCircle.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CDrawableCircle.cs",
+              "RelativeToolTip": "Shapes\\CDrawableCircle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:03:35.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Shapes\\IDrawable.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\IDrawable.cs",
+              "RelativeToolTip": "Shapes\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:01:55.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CCircle.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CCircle.cs",
+              "RelativeDocumentMoniker": "Shapes\\CCircle.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CCircle.cs",
+              "RelativeToolTip": "Shapes\\CCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:43:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CRectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\CRectangle.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\CRectangle.cs",
+              "RelativeToolTip": "Shapes\\CRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:41:28.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AShape.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\AShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\AShape.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\AShape.cs",
+              "RelativeToolTip": "Shapes\\AShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:40:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Shapes\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:40:08.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\bin\Debug\Gioco_Dell_Oca.exe.config
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\bin\Debug\Gioco_Dell_Oca.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\bin\Debug\Gioco_Dell_Oca.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.csproj.AssemblyReference.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.Form1.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.Properties.Resources.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.csproj.GenerateResource.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Gioco_Dell_Oca\Gioco_Dell_Oca\obj\Debug\Gioco_Dell_Oca.PlayerCreation.resources

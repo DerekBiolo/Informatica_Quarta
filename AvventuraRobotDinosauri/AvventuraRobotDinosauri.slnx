@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../CodaLinked/LinkedCoda/LinkedCoda.csproj" />
+  <Project Path="../Esercizio1_Stack/LinkedPila/LinkedPila.csproj" />
+  <Project Path="AvventuraRobotDinosauri/AvventuraRobotDinosauri.csproj" />
+</Solution>

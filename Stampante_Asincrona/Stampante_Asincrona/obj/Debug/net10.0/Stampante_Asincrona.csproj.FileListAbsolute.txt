@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\bin\Debug\net10.0\Stampante_Asincrona.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\bin\Debug\net10.0\Stampante_Asincrona.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\bin\Debug\net10.0\Stampante_Asincrona.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\bin\Debug\net10.0\Stampante_Asincrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\bin\Debug\net10.0\Stampante_Asincrona.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\refint\Stampante_Asincrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\Stampante_Asincrona.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Stampante_Asincrona\Stampante_Asincrona\obj\Debug\net10.0\ref\Stampante_Asincrona.dll

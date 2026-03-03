@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574A3813-3092-4698-8369-75FDBFBCC8D4}|CopisteriaAsyncrona\\CopisteriaAsyncrona.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\copisteriaasyncrona\\copisteriaasyncrona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574A3813-3092-4698-8369-75FDBFBCC8D4}|CopisteriaAsyncrona\\CopisteriaAsyncrona.csproj|solutionrelative:copisteriaasyncrona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574A3813-3092-4698-8369-75FDBFBCC8D4}|CopisteriaAsyncrona\\CopisteriaAsyncrona.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\copisteriaasyncrona\\copisteriaasyncrona\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574A3813-3092-4698-8369-75FDBFBCC8D4}|CopisteriaAsyncrona\\CopisteriaAsyncrona.csproj|solutionrelative:copisteriaasyncrona\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574A3813-3092-4698-8369-75FDBFBCC8D4}|CopisteriaAsyncrona\\CopisteriaAsyncrona.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\copisteriaasyncrona\\copisteriaasyncrona\\copisteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574A3813-3092-4698-8369-75FDBFBCC8D4}|CopisteriaAsyncrona\\CopisteriaAsyncrona.csproj|solutionrelative:copisteriaasyncrona\\copisteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\CopisteriaAsyncrona\\Documento.cs",
+              "RelativeDocumentMoniker": "CopisteriaAsyncrona\\Documento.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\CopisteriaAsyncrona\\Documento.cs",
+              "RelativeToolTip": "CopisteriaAsyncrona\\Documento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:01:49.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Copisteria.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\CopisteriaAsyncrona\\Copisteria.cs",
+              "RelativeDocumentMoniker": "CopisteriaAsyncrona\\Copisteria.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\CopisteriaAsyncrona\\Copisteria.cs",
+              "RelativeToolTip": "CopisteriaAsyncrona\\Copisteria.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:01:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\CopisteriaAsyncrona\\Program.cs",
+              "RelativeDocumentMoniker": "CopisteriaAsyncrona\\Program.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\CopisteriaAsyncrona\\CopisteriaAsyncrona\\Program.cs",
+              "RelativeToolTip": "CopisteriaAsyncrona\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:57:37.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

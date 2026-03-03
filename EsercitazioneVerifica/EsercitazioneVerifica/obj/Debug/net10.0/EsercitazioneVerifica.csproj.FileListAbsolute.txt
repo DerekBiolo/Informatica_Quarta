@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\net10.0\EsercitazioneVerifica.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\net10.0\EsercitazioneVerifica.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\net10.0\EsercitazioneVerifica.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\net10.0\EsercitazioneVerifica.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\net10.0\EsercitazioneVerifica.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\refint\EsercitazioneVerifica.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\EsercitazioneVerifica.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\net10.0\ref\EsercitazioneVerifica.dll

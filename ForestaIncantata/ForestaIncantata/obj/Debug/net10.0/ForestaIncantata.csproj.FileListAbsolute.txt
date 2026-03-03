@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\bin\Debug\net10.0\ForestaIncantata.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\bin\Debug\net10.0\ForestaIncantata.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\bin\Debug\net10.0\ForestaIncantata.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\bin\Debug\net10.0\ForestaIncantata.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\bin\Debug\net10.0\ForestaIncantata.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\refint\ForestaIncantata.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ForestaIncantata.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\ForestaIncantata\ForestaIncantata\obj\Debug\net10.0\ref\ForestaIncantata.dll

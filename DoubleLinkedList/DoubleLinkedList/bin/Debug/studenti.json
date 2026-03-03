@@ -1,0 +1,32 @@
+[
+  {
+    "Nome": "Bettino",
+    "Cognome": "Grax",
+    "Codice": "1",
+    "Classe": "3ACH"
+  },
+  {
+    "Nome": "Mirco",
+    "Cognome": "Cacchio",
+    "Codice": "2",
+    "Classe": "4AEA"
+  },
+  {
+    "Nome": "Mikadon",
+    "Cognome": "Igushi",
+    "Codice": "3",
+    "Classe": "5BMM"
+  },
+  {
+    "Nome": "Tommaso",
+    "Cognome": "Gattazzo",
+    "Codice": "32",
+    "Classe": "3BEA"
+  },
+  {
+    "Nome": "Thomas",
+    "Cognome": "Turbato",
+    "Codice": "4",
+    "Classe": "1BI"
+  }
+]

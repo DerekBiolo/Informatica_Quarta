@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\bin\Debug\net10.0\Esercizio_Eventi_1.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\bin\Debug\net10.0\Esercizio_Eventi_1.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\bin\Debug\net10.0\Esercizio_Eventi_1.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\bin\Debug\net10.0\Esercizio_Eventi_1.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\bin\Debug\net10.0\Esercizio_Eventi_1.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\refint\Esercizio_Eventi_1.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\Esercizio_Eventi_1.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio_Eventi_1\Esercizio_Eventi_1\obj\Debug\net10.0\ref\Esercizio_Eventi_1.dll

@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\bin\Debug\net10.0\BarStadio.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\bin\Debug\net10.0\BarStadio.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\bin\Debug\net10.0\BarStadio.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\bin\Debug\net10.0\BarStadio.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\bin\Debug\net10.0\BarStadio.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\refint\BarStadio.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\BarStadio.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BarStadio\BarStadio\obj\Debug\net10.0\ref\BarStadio.dll

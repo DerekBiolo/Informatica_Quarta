@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Elenco_Persone_BD/1.0.0": {
+        "runtime": {
+          "Elenco_Persone_BD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elenco_Persone_BD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

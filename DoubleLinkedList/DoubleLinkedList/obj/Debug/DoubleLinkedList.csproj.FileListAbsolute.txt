@@ -1,0 +1,13 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.Form1.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.Properties.Resources.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.GenerateResource.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLi.A9C8141B.Up2Date
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb

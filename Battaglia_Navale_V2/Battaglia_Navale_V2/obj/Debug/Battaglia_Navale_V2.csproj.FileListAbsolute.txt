@@ -1,0 +1,10 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\bin\Debug\Battaglia_Navale_V2.exe.config
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\bin\Debug\Battaglia_Navale_V2.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\bin\Debug\Battaglia_Navale_V2.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.csproj.AssemblyReference.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.Form1.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.Properties.Resources.resources
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.csproj.GenerateResource.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Battaglia_Navale_V2\Battaglia_Navale_V2\obj\Debug\Battaglia_Navale_V2.pdb

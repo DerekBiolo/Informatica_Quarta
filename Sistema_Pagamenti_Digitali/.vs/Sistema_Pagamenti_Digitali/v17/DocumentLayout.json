@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\ac_metodopagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\ac_metodopagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\c_paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\c_paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\c_cartacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\c_cartacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\c_criptovaluta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\c_criptovaluta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\c_statistichepagamenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\c_statistichepagamenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\sistema_pagamenti_digitali\\sistema_pagamenti_digitali\\i_autenticazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3E198B-4CA6-4457-AFEB-B0D94B97BFDC}|Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali.csproj|solutionrelative:sistema_pagamenti_digitali\\i_autenticazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "C_StatistichePagamenti.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_StatistichePagamenti.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\C_StatistichePagamenti.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_StatistichePagamenti.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\C_StatistichePagamenti.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:26:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C_Criptovaluta.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_Criptovaluta.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\C_Criptovaluta.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_Criptovaluta.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\C_Criptovaluta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:17:28.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C_CartaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_CartaCredito.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\C_CartaCredito.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_CartaCredito.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\C_CartaCredito.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:11:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C_Paypal.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_Paypal.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\C_Paypal.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\C_Paypal.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\C_Paypal.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:47:51.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "I_Autenticazione.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\I_Autenticazione.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\I_Autenticazione.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\I_Autenticazione.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\I_Autenticazione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:46:50.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AC_MetodoPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\AC_MetodoPagamento.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\AC_MetodoPagamento.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\AC_MetodoPagamento.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\AC_MetodoPagamento.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:37:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema_Pagamenti_Digitali\\Program.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\Sistema_Pagamenti_Digitali\\Sistema_Pagamenti_Digitali\\Program.cs",
+              "RelativeToolTip": "Sistema_Pagamenti_Digitali\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:28:22.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

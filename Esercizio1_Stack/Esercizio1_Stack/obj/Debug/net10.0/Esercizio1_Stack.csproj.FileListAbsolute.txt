@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\bin\Debug\net10.0\Esercizio1_Stack.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\bin\Debug\net10.0\Esercizio1_Stack.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\bin\Debug\net10.0\Esercizio1_Stack.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\bin\Debug\net10.0\Esercizio1_Stack.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\bin\Debug\net10.0\Esercizio1_Stack.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\refint\Esercizio1_Stack.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\Esercizio1_Stack.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\Esercizio1_Stack\obj\Debug\net10.0\ref\Esercizio1_Stack.dll

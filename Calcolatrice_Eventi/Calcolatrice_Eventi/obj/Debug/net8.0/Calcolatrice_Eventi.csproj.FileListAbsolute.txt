@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\bin\Debug\net8.0\Calcolatrice_Eventi.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\bin\Debug\net8.0\Calcolatrice_Eventi.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\bin\Debug\net8.0\Calcolatrice_Eventi.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\bin\Debug\net8.0\Calcolatrice_Eventi.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\bin\Debug\net8.0\Calcolatrice_Eventi.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\refint\Calcolatrice_Eventi.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\Calcolatrice_Eventi.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Calcolatrice_Eventi\Calcolatrice_Eventi\obj\Debug\net8.0\ref\Calcolatrice_Eventi.dll

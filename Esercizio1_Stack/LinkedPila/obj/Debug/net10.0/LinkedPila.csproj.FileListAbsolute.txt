@@ -1,0 +1,11 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\bin\Debug\net10.0\LinkedPila.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\bin\Debug\net10.0\LinkedPila.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\bin\Debug\net10.0\LinkedPila.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\LinkedPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\LinkedPila.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\LinkedPila.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\LinkedPila.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\LinkedPila.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\refint\LinkedPila.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\LinkedPila.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\Esercizio1_Stack\LinkedPila\obj\Debug\net10.0\ref\LinkedPila.dll

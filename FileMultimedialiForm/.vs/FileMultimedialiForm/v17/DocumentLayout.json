@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\filemultimedialiform\\filemultimedialiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\caudiofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\caudiofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\cimmagine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\ivolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\ivolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\cvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\cvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\filemultimedialiform\\ibrightness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712ABEE5-4D42-4005-9301-BBBFFBA26BC6}|FileMultimedialiForm\\FileMultimedialiForm.csproj|solutionrelative:filemultimedialiform\\ibrightness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\Form1.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "FileMultimedialiForm\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:01:55.912Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\Form1.Designer.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAD4v0wBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:33:33.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\Form1.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\Form1.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\Form1.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAIwOUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:23:21.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVolume.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\IVolume.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\IVolume.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\IVolume.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\IVolume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:28:36.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBrightness.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\IBrightness.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\IBrightness.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\IBrightness.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\IBrightness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:26:34.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CVideo.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\CVideo.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\CVideo.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\CVideo.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\CVideo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:22:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CImmagine.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\CImmagine.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\CImmagine.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\CImmagine.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\CImmagine.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:22:01.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CAudioFile.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\CAudioFile.cs",
+              "RelativeDocumentMoniker": "FileMultimedialiForm\\CAudioFile.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\FileMultimedialiForm\\FileMultimedialiForm\\CAudioFile.cs",
+              "RelativeToolTip": "FileMultimedialiForm\\CAudioFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:17:38.034Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

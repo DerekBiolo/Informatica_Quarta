@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\tabella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\tabella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\casella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\casella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\gioco_dell_oca\\gioco_dell_oca\\playercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\playercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\playercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\playercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\gioco_dell_oca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDF1EEF-D344-4B8F-8CD7-B9C23A5220A1}|Gioco_Dell_Oca\\Gioco_Dell_Oca.csproj|solutionrelative:gioco_dell_oca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tabella.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Tabella.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\Tabella.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Tabella.cs",
+              "RelativeToolTip": "Gioco_Dell_Oca\\Tabella.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:12:17.812Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Form1.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Form1.cs",
+              "RelativeToolTip": "Gioco_Dell_Oca\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:16:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\GameManager.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\GameManager.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\GameManager.cs",
+              "RelativeToolTip": "Gioco_Dell_Oca\\GameManager.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwLUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:45:44.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCreation.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\PlayerCreation.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\PlayerCreation.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\PlayerCreation.cs",
+              "RelativeToolTip": "Gioco_Dell_Oca\\PlayerCreation.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:12:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Casella.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Casella.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\Casella.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Casella.cs",
+              "RelativeToolTip": "Gioco_Dell_Oca\\Casella.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:11:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Player.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\Player.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Player.cs",
+              "RelativeToolTip": "Gioco_Dell_Oca\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:30:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerCreation.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\PlayerCreation.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\PlayerCreation.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\PlayerCreation.cs [Progettazione]",
+              "RelativeToolTip": "Gioco_Dell_Oca\\PlayerCreation.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:08:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Form1.cs",
+              "RelativeDocumentMoniker": "Gioco_Dell_Oca\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\Gioco_Dell_Oca\\Gioco_Dell_Oca\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Gioco_Dell_Oca\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:10:42.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

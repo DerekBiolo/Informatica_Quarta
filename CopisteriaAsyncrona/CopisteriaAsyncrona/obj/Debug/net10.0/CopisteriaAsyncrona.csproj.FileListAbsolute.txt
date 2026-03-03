@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\bin\Debug\net10.0\CopisteriaAsyncrona.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\bin\Debug\net10.0\CopisteriaAsyncrona.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\bin\Debug\net10.0\CopisteriaAsyncrona.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\bin\Debug\net10.0\CopisteriaAsyncrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\bin\Debug\net10.0\CopisteriaAsyncrona.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\refint\CopisteriaAsyncrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\CopisteriaAsyncrona.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CopisteriaAsyncrona\CopisteriaAsyncrona\obj\Debug\net10.0\ref\CopisteriaAsyncrona.dll

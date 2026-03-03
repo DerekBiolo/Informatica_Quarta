@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\bin\Debug\net10.0\RipassoVerifica.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\bin\Debug\net10.0\RipassoVerifica.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\bin\Debug\net10.0\RipassoVerifica.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\bin\Debug\net10.0\RipassoVerifica.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\bin\Debug\net10.0\RipassoVerifica.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\refint\RipassoVerifica.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\RipassoVerifica.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\RipassoVerifica\RipassoVerifica\obj\Debug\net10.0\ref\RipassoVerifica.dll

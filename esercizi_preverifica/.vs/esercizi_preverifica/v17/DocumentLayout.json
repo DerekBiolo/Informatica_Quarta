@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\esercizi_preverifica\\esercizi_preverifica\\cauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|solutionrelative:esercizi_preverifica\\cauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\esercizi_preverifica\\esercizi_preverifica\\cbicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|solutionrelative:esercizi_preverifica\\cbicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\esercizi_preverifica\\esercizi_preverifica\\cveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|solutionrelative:esercizi_preverifica\\cveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\esercizi_preverifica\\esercizi_preverifica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|solutionrelative:esercizi_preverifica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\esercizi_preverifica\\esercizi_preverifica\\ccane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|solutionrelative:esercizi_preverifica\\ccane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\esercizi_preverifica\\esercizi_preverifica\\canimale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD43CB9-6375-48BD-B252-8B5CD39D870F}|esercizi_preverifica\\esercizi_preverifica.csproj|solutionrelative:esercizi_preverifica\\canimale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CBicicletta.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CBicicletta.cs",
+              "RelativeDocumentMoniker": "esercizi_preverifica\\CBicicletta.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CBicicletta.cs",
+              "RelativeToolTip": "esercizi_preverifica\\CBicicletta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:08:31.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CAuto.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CAuto.cs",
+              "RelativeDocumentMoniker": "esercizi_preverifica\\CAuto.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CAuto.cs",
+              "RelativeToolTip": "esercizi_preverifica\\CAuto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:04:41.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CVeicolo.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CVeicolo.cs",
+              "RelativeDocumentMoniker": "esercizi_preverifica\\CVeicolo.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CVeicolo.cs",
+              "RelativeToolTip": "esercizi_preverifica\\CVeicolo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:03:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\Program.cs",
+              "RelativeDocumentMoniker": "esercizi_preverifica\\Program.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\Program.cs",
+              "RelativeToolTip": "esercizi_preverifica\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:57:07.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CCane.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CCane.cs",
+              "RelativeDocumentMoniker": "esercizi_preverifica\\CCane.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CCane.cs",
+              "RelativeToolTip": "esercizi_preverifica\\CCane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:58:53.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CAnimale.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CAnimale.cs",
+              "RelativeDocumentMoniker": "esercizi_preverifica\\CAnimale.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\esercizi_preverifica\\esercizi_preverifica\\CAnimale.cs",
+              "RelativeToolTip": "esercizi_preverifica\\CAnimale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:58:15.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

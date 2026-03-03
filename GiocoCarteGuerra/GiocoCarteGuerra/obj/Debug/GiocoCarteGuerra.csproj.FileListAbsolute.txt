@@ -1,0 +1,9 @@
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\bin\Debug\GiocoCarteGuerra.exe.config
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\bin\Debug\GiocoCarteGuerra.exe
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\bin\Debug\GiocoCarteGuerra.pdb
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\obj\Debug\GiocoCarteGuerra.csproj.AssemblyReference.cache
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\obj\Debug\GiocoCarteGuerra.Properties.Resources.resources
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\obj\Debug\GiocoCarteGuerra.csproj.GenerateResource.cache
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\obj\Debug\GiocoCarteGuerra.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\obj\Debug\GiocoCarteGuerra.exe
+C:\Users\biolo\Desktop\4BII\informatica\GiocoCarteGuerra\GiocoCarteGuerra\obj\Debug\GiocoCarteGuerra.pdb

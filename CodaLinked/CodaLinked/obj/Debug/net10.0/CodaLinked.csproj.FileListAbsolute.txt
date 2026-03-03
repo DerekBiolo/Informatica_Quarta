@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\bin\Debug\net10.0\CodaLinked.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\bin\Debug\net10.0\CodaLinked.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\bin\Debug\net10.0\CodaLinked.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\bin\Debug\net10.0\CodaLinked.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\bin\Debug\net10.0\CodaLinked.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\refint\CodaLinked.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\CodaLinked.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\CodaLinked\obj\Debug\net10.0\ref\CodaLinked.dll

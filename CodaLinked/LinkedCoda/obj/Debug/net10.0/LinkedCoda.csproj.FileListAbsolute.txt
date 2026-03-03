@@ -1,0 +1,11 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\bin\Debug\net10.0\LinkedCoda.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\bin\Debug\net10.0\LinkedCoda.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\bin\Debug\net10.0\LinkedCoda.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\LinkedCoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\LinkedCoda.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\LinkedCoda.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\LinkedCoda.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\LinkedCoda.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\refint\LinkedCoda.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\LinkedCoda.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\CodaLinked\LinkedCoda\obj\Debug\net10.0\ref\LinkedCoda.dll

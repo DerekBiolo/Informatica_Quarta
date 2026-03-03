@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\bin\Debug\net8.0\Pizzeria_Factory.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\bin\Debug\net8.0\Pizzeria_Factory.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\bin\Debug\net8.0\Pizzeria_Factory.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\bin\Debug\net8.0\Pizzeria_Factory.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\bin\Debug\net8.0\Pizzeria_Factory.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\refint\Pizzeria_Factory.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\Pizzeria_Factory.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Pizzeria_Factory\Pizzeria_Factory\obj\Debug\net8.0\ref\Pizzeria_Factory.dll

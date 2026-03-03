@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\bin\Debug\net10.0\AttaccoAlRe.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\bin\Debug\net10.0\AttaccoAlRe.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\bin\Debug\net10.0\AttaccoAlRe.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\bin\Debug\net10.0\AttaccoAlRe.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\bin\Debug\net10.0\AttaccoAlRe.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\refint\AttaccoAlRe.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\AttaccoAlRe.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\AttaccoAlRe\AttaccoAlRe\obj\Debug\net10.0\ref\AttaccoAlRe.dll

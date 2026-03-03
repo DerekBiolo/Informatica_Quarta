@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\bin\Debug\net8.0\SistemaDomotico.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\bin\Debug\net8.0\SistemaDomotico.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\bin\Debug\net8.0\SistemaDomotico.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\bin\Debug\net8.0\SistemaDomotico.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\bin\Debug\net8.0\SistemaDomotico.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\refint\SistemaDomotico.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\SistemaDomotico.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\SistemaDomotico\SistemaDomotico\obj\Debug\net8.0\ref\SistemaDomotico.dll

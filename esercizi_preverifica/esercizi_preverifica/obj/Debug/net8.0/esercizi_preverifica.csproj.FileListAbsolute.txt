@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\bin\Debug\net8.0\esercizi_preverifica.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\bin\Debug\net8.0\esercizi_preverifica.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\bin\Debug\net8.0\esercizi_preverifica.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\bin\Debug\net8.0\esercizi_preverifica.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\bin\Debug\net8.0\esercizi_preverifica.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\refint\esercizi_preverifica.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\esercizi_preverifica.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\esercizi_preverifica\esercizi_preverifica\obj\Debug\net8.0\ref\esercizi_preverifica.dll

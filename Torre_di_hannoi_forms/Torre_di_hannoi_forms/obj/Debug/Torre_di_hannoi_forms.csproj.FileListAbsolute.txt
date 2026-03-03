@@ -1,0 +1,12 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\bin\Debug\Torre_di_hannoi_forms.exe.config
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\bin\Debug\Torre_di_hannoi_forms.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\bin\Debug\Torre_di_hannoi_forms.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.csproj.AssemblyReference.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.Form1.resources
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.Properties.Resources.resources
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.csproj.GenerateResource.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.exe.config
+C:\Users\biolo\Desktop\scol\4BII\informatica\Torre_di_hannoi_forms\Torre_di_hannoi_forms\obj\Debug\Torre_di_hannoi_forms.FSimulazione.resources

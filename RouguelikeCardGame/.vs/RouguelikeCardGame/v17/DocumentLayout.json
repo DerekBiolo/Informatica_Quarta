@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\rouguelikecardgame\\rouguelikecardgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cpaladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cpaladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\carcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\carcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\crandomnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\crandomnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cgameturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cgameturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cassassin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cassassin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\rouguelikecardgame\\cwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DAC88B-EE59-43D9-98D0-FA8C3891D44F}|RouguelikeCardGame\\RouguelikeCardGame.csproj|solutionrelative:rouguelikecardgame\\cwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CGame.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CGame.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CGame.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CGame.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CGame.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:12:42.385Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\Form1.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\Form1.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:24:43.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRandomNames.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CRandomNames.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CRandomNames.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CRandomNames.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CRandomNames.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:15:46.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CArcher.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CArcher.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CArcher.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CArcher.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CArcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:00:06.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CPaladin.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CPaladin.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CPaladin.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CPaladin.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CPaladin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:00:29.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMage.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CMage.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CMage.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CMage.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CMage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:59:47.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\Form1.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "RouguelikeCardGame\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:49:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CGameTurn.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CGameTurn.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CGameTurn.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CGameTurn.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CGameTurn.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:01:20.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CPersonaggio.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CPersonaggio.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CPersonaggio.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CPersonaggio.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CPersonaggio.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:52:18.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CWarrior.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CWarrior.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CWarrior.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CWarrior.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CWarrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:58:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CAssassin.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CAssassin.cs",
+              "RelativeDocumentMoniker": "RouguelikeCardGame\\CAssassin.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\RouguelikeCardGame\\RouguelikeCardGame\\CAssassin.cs",
+              "RelativeToolTip": "RouguelikeCardGame\\CAssassin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:00:46.295Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

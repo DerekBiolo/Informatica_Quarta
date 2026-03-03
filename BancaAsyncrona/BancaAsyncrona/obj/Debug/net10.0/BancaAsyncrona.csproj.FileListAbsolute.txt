@@ -1,0 +1,14 @@
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.AssemblyInfoInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.AssemblyInfo.cs
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\bin\Debug\net10.0\BancaAsyncrona.exe
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\bin\Debug\net10.0\BancaAsyncrona.deps.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\bin\Debug\net10.0\BancaAsyncrona.runtimeconfig.json
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\bin\Debug\net10.0\BancaAsyncrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\bin\Debug\net10.0\BancaAsyncrona.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\refint\BancaAsyncrona.dll
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.pdb
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\BancaAsyncrona.genruntimeconfig.cache
+C:\Users\biolo\Documents\Scuola\4BII\informatica\BancaAsyncrona\BancaAsyncrona\obj\Debug\net10.0\ref\BancaAsyncrona.dll

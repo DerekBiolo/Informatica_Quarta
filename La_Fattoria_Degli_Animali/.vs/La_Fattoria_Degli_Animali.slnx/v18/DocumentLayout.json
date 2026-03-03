@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\la_fattoria_degli_animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|solutionrelative:la_fattoria_degli_animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\la_fattoria_degli_animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|solutionrelative:la_fattoria_degli_animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\la_fattoria_degli_animali\\la_fattoria_degli_animali\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|solutionrelative:la_fattoria_degli_animali\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\la_fattoria_degli_animali\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|solutionrelative:la_fattoria_degli_animali\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\la_fattoria_degli_animali\\la_fattoria_degli_animali\\fattoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494A7715-BE1D-4C54-90C7-6F6BFA58B165}|La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali.csproj|solutionrelative:la_fattoria_degli_animali\\fattoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Form1.cs",
+              "RelativeDocumentMoniker": "La_Fattoria_Degli_Animali\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Form1.cs",
+              "RelativeToolTip": "La_Fattoria_Degli_Animali\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:24:48.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "La_Fattoria_Degli_Animali\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Form1.Designer.cs",
+              "RelativeToolTip": "La_Fattoria_Degli_Animali\\Form1.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAIAwwFsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:47:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fattoria.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Fattoria.cs",
+              "RelativeDocumentMoniker": "La_Fattoria_Degli_Animali\\Fattoria.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Fattoria.cs",
+              "RelativeToolTip": "La_Fattoria_Degli_Animali\\Fattoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:26:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Animale.cs",
+              "RelativeDocumentMoniker": "La_Fattoria_Degli_Animali\\Animale.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Animale.cs",
+              "RelativeToolTip": "La_Fattoria_Degli_Animali\\Animale.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:16:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Form1.cs",
+              "RelativeDocumentMoniker": "La_Fattoria_Degli_Animali\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\La_Fattoria_Degli_Animali\\La_Fattoria_Degli_Animali\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "La_Fattoria_Degli_Animali\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:16:13.484Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

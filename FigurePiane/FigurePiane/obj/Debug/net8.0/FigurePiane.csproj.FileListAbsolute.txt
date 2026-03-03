@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\bin\Debug\net8.0\FigurePiane.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\bin\Debug\net8.0\FigurePiane.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\bin\Debug\net8.0\FigurePiane.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\bin\Debug\net8.0\FigurePiane.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\bin\Debug\net8.0\FigurePiane.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\refint\FigurePiane.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\FigurePiane.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FigurePiane\FigurePiane\obj\Debug\net8.0\ref\FigurePiane.dll

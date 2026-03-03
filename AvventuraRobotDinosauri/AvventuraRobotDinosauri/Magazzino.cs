@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AvventuraRobotDinosauri
+{
+    using LinkedPila;
+    using LinkedCoda;
+    //classe per gestire la coda
+    internal class Magazzino
+    {
+        private readonly LinkedCoda<Componente> _coda = new LinkedCoda<Componente>();
+        private readonly object _lock = new object();
+
+        public bool produzioneTerminata;
+
+        public void Aggiungi(Componente toco)
+        {
+            lock (_lock)
+            {
+                _coda.Enqueue(toco);
+            }
+        }
+
+        public Componente PrendiPezzo()
+        {
+            lock (_lock)
+            {
+                if (!(_coda.IsEmpty()))
+                {
+                    return _coda.Dequeue();
+                }
+                return null;
+            }
+        }
+
+        public int PezziRimanenti()
+        {
+            lock (_lock)
+            {
+                return _coda.Count();
+            }
+        }
+    }
+}

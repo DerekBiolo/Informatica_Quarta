@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\bin\Debug\net8.0\FileMultimediali.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\bin\Debug\net8.0\FileMultimediali.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\bin\Debug\net8.0\FileMultimediali.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\bin\Debug\net8.0\FileMultimediali.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\bin\Debug\net8.0\FileMultimediali.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\refint\FileMultimediali.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\FileMultimediali.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\FileMultimediali\FileMultimediali\obj\Debug\net8.0\ref\FileMultimediali.dll

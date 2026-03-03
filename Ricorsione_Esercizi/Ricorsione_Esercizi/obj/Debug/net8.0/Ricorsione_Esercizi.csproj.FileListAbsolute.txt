@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\bin\Debug\net8.0\Ricorsione_Esercizi.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\bin\Debug\net8.0\Ricorsione_Esercizi.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\bin\Debug\net8.0\Ricorsione_Esercizi.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\bin\Debug\net8.0\Ricorsione_Esercizi.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\bin\Debug\net8.0\Ricorsione_Esercizi.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\refint\Ricorsione_Esercizi.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\Ricorsione_Esercizi.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\Ricorsione_Esercizi\Ricorsione_Esercizi\obj\Debug\net8.0\ref\Ricorsione_Esercizi.dll

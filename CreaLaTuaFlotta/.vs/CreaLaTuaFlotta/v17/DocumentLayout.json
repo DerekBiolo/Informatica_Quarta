@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\cbicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\cbicicletta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\cmonopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\cmonopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\celicottero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\celicottero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\cdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\cdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\cauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\cauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\icondivisibile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\icondivisibile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\ivolante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\ivolante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|c:\\users\\biolo\\desktop\\scol\\4bii\\informatica\\crealatuaflotta\\crealatuaflotta\\cveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0D294-F241-46BC-BC13-76BAF39D4D67}|CreaLaTuaFlotta\\CreaLaTuaFlotta.csproj|solutionrelative:crealatuaflotta\\cveicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CBicicletta.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CBicicletta.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\CBicicletta.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CBicicletta.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\CBicicletta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:11:42.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMonopattino.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CMonopattino.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\CMonopattino.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CMonopattino.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\CMonopattino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:10:36.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CElicottero.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CElicottero.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\CElicottero.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CElicottero.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\CElicottero.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:09:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CDrone.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CDrone.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\CDrone.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CDrone.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\CDrone.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:07:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CAuto.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CAuto.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\CAuto.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CAuto.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\CAuto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:01:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICondivisibile.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\ICondivisibile.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\ICondivisibile.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\ICondivisibile.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\ICondivisibile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:00:17.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVolante.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\IVolante.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\IVolante.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\IVolante.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\IVolante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:59:19.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CVeicolo.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CVeicolo.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\CVeicolo.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\CVeicolo.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\CVeicolo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:57:21.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\Program.cs",
+              "RelativeDocumentMoniker": "CreaLaTuaFlotta\\Program.cs",
+              "ToolTip": "C:\\Users\\biolo\\Desktop\\scol\\4BII\\informatica\\CreaLaTuaFlotta\\CreaLaTuaFlotta\\Program.cs",
+              "RelativeToolTip": "CreaLaTuaFlotta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:55:43.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\doublelinkedlist\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\doublelinkedlist\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\doublelinkedlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\users\\biolo\\documents\\scuola\\4bii\\informatica\\doublelinkedlist\\doublelinkedlist\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\doublelinkedlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECCC4A60-82FC-4F8C-9B2D-AEF837E9430A}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoubleLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\DoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\DoubleLinkedList.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\DoubleLinkedList.cs*",
+              "RelativeToolTip": "DoubleLinkedList\\DoubleLinkedList.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:34:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Nodo.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Nodo.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Nodo.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:33:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Form1.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Form1.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Form1.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAUwOsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:33:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Studente.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Studente.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Studente.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Studente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:33:41.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Form1.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Form1.cs",
+              "ToolTip": "C:\\Users\\biolo\\Documents\\Scuola\\4BII\\informatica\\DoubleLinkedList\\DoubleLinkedList\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "DoubleLinkedList\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:32:59.011Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

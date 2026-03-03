@@ -1,0 +1,14 @@
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\bin\Debug\net8.0\CreaLaTuaFlotta.exe
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\bin\Debug\net8.0\CreaLaTuaFlotta.deps.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\bin\Debug\net8.0\CreaLaTuaFlotta.runtimeconfig.json
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\bin\Debug\net8.0\CreaLaTuaFlotta.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\bin\Debug\net8.0\CreaLaTuaFlotta.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.AssemblyInfoInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.AssemblyInfo.cs
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.csproj.CoreCompileInputs.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\refint\CreaLaTuaFlotta.dll
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.pdb
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\CreaLaTuaFlotta.genruntimeconfig.cache
+C:\Users\biolo\Desktop\scol\4BII\informatica\CreaLaTuaFlotta\CreaLaTuaFlotta\obj\Debug\net8.0\ref\CreaLaTuaFlotta.dll
